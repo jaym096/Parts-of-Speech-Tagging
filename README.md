@@ -1,4 +1,4 @@
-# Part 1: Part-of-Speech tagging
+# Part-of-Speech tagging
 
 **Formulation and code description:**
 </br>
